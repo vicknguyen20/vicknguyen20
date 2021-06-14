@@ -3,7 +3,7 @@ Thank you for this wonderful opportunity. Today your job posting has caught my a
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤
-- 
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
